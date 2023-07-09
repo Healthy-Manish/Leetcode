@@ -31,6 +31,7 @@ Output: [1,4,2,3,3,2,4,1]
                 arr[i]= nums[n-1+s];
             }
         }
+        
         return arr;
     }
 }
