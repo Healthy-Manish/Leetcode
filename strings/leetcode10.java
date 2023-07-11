@@ -1,4 +1,4 @@
-package arrrays.easy;
+package strings;
 
 public class leetcode10 {
 //     Given a valid (IPv4) IP address, return a defanged version of that IP address.
