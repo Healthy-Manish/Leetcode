@@ -17,6 +17,9 @@ Explanation:
 Both customers are considered the richest with a wealth of 6 each, so return 6.
  */
 public class richest_customer_wealth {
+    public static void main(String[] args) {
+
+    }
     public int maximumWealth(int[][] accounts) {
         int sum = 0;
         for (int i = 0;i<accounts.length;i++){

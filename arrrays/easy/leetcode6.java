@@ -16,7 +16,7 @@ package arrrays.easy;
 // Output: [[1,0,0],[0,1,0],[1,1,1]]
 // Explanation: First reverse each row: [[0,1,1],[1,0,1],[0,0,0]].
 // Then, invert the image: [[1,0,0],[0,1,0],[1,1,1]] {
-import java.util.*;
+
 public class leetcode6{
     public static void main(String[] args) {
         int[][] image = {{1,1,0},{1,0,1},{0,0,1}};

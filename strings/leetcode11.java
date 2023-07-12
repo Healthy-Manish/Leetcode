@@ -19,6 +19,7 @@ Explanation: As shown, "codeleet" becomes "leetcode" after shuffling.
 public class leetcode11 {
     public static void main(String[] args) {
         String s = "codeelet";
+        
         int[] indices =  {4,5,6,7,2,0,1,3};
         System.out.println(restoreString2(s,indices)); 
     }
