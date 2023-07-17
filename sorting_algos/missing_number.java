@@ -19,7 +19,7 @@ Explanation: n = 3 since there are 3 numbers, so all numbers are
 in the range [0,3]. 2 is the missing number in the range since it does not appear in nums.
     */
     public static void main(String[] args) {
-        int[]arr ={ 0,3,2,1,5,6};
+        int[]arr ={ 0,3,2,1,4,5,6,8,7,9};
 
         System.out.println(missing(arr));
     }
